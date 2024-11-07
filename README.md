@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/muhammad-baqir-177755151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-baqir-177755151" height="30" width="40" /></a>
 <a href="https://instagram.com/imbaqiraarfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imbaqiraarfi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohdbaqir110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohdbaqir110" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mbaarfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mbaarfi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mbaarfii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mbaarfi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,6 +35,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mbaarfi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mbaarfi" /></a></p><br><br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mb-aarfi&show_icons=true&locale=en&layout=compact" alt="mb-aarfi" /></p>
 
