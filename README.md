@@ -1,4 +1,4 @@
-(![Black Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/b71b7d77-b5c1-44de-82d2-602838b55ebd)
+![Black Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/b71b7d77-b5c1-44de-82d2-602838b55ebd)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Juhi+Pathak;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+@+thelone.artist"></p>
 <h3 align="center">CSE Undergrad, 3rd Year | Lead at Google Developer Student Club, GLBITM | Ex-SDE Intern at Cognizant</h3>
