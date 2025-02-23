@@ -1,4 +1,4 @@
-![Black Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/b71b7d77-b5c1-44de-82d2-602838b55ebd)
+![Black Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/0c55dba4-27fc-4752-b6a3-875f58bc9d07)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Muhammad+Baqir;I'm+Software+Developer;I'm+Graphic+Designer"></p>
 <h3 align="center">Hello World, I'm Muhammad Baqir | CSE Undergrad, 3rd Year Student</h3>
