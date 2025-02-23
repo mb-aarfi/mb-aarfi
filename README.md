@@ -12,7 +12,7 @@
 
 - 📝 I will write articles on <a href="https://medium.com/@mohdbaqir110](https://medium.com/@mohdbaqir110">Medium</a>
 
-- 💬 Ask me about **Full Stack Dev, Graphic Designing**
+- 💬 Ask me about **Full Stack Dev, UI/UX, Graphic Designing**
 
 - 📫 How to reach me **mohdbaqir110@gmail.com**
 
