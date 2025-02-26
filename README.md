@@ -8,7 +8,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 - 🔭 I’m currently working on **GLB.Connect**
 
-- 🌱 I’m currently learning **DS, DevOops,**
+- 🌱 I’m currently learning **DS, DevOops**
 
 - 📝 I will write articles on <a href="https://medium.com/@mohdbaqir110](https://medium.com/@mohdbaqir110">Medium</a>
 
