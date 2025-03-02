@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DS, DevOops**
 
-- 📝 I will write articles on <a href="https://medium.com/@mohdbaqir110](https://medium.com/@mohdbaqir110">Medium</a>
+- 📝 I will write articles on <a href="https://medium.com/@mohdbaqir110">Medium</a>
 
 - 💬 Ask me about **Full Stack Development, UI/UX Development, Graphic Designing**
 
