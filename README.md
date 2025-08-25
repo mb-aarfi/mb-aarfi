@@ -1,4 +1,3 @@
-![Black Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/0c55dba4-27fc-4752-b6a3-875f58bc9d07)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Muhammad+Baqir;I'm+Software+Developer;I'm+Graphic+Designer"></p>
 <h3 align="center">Hello World, I'm Muhammad Baqir | CSE Undergrad, 3rd Year Student</h3>
@@ -148,14 +147,30 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 
-<p align="center">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mb-aarfi&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mb-aarfi&theme=tokyonight&hide_border=true" align="left" width="450" alt="Muhammad Baqir"/>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<div align="center">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mb-aarfi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=mb-aarfi&bg_color=1a1b27&color=628fda&line=2fcbfe&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ----------------------
 
-## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Support</b>
+## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Connect With Me</b>
 
-<p><a href="https://studio.buymeacoffee.com/dashboard"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="juhipathak" /></a></p><br><br>
+<p><a href="https://studio.buymeacoffee.com/dashboard"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="mb-aarfi" /></a></p><br><br>
+<div align="center">
+  <a href="mailto:mohdbaqir110@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-baqir-177755151/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/mohamme08645743">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/mb-aarfi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://mb-aarfi.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
