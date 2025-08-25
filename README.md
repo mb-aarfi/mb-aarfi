@@ -65,95 +65,27 @@ const Baqir = {
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills that make me TECH-SAVVY</b>
 
-### 📋 Programming languages
-
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
-  </a>
-
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
-  </a>
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
-
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-
-</p>
-
-### 📋 Frontend Development
-
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+<div align="center">
   
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
-  </a>
-
-  <a href="https://react.dev/" target="_blank">
-    <img alt="React.js" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat">
-  </a>
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
-  <a href="https://tailwindcss.com" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
-  </a>
-</p>
-
-### ☁️ Cloud
-
-<p align="left"> 
-  <a href="https://aws.amazon.com/" target="_blank"> 
-   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
-  </a>   
-  
-</p>
-
-### 💾 Databases
-
-<p align="left"> 
-
-  <a href="https://www.mysql.com/" target="_blank"> 
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
-  </a>   
-   <a href="https://www.mongodb.com/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-  </a>  
-  
-   <a href="https://www.sqlite.org/" target="_blank"> 
-   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
-  </a>   
-
- <a href="https://firebase.google.com/" target="_blank"> 
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white"/>
-  </a>
-  
-</p>
-
-### 🥅 Others:
-
-<a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"></a>
-<a href="https://httpd.apache.org" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white"></a>
-<a href="https://www.anaconda.com" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white"></a>
-<a href="https://kafka.apache.org" target="_blank"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka"></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
-<a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
-<a href="https://www.sketch.com" target="_blank"><img alt="Sketch" src="https://img.shields.io/badge/Sketch-FFB387?logo=sketch&logoColor=black"></a>
-<a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
-<a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
-
+</div>
 
 ------------------------
 
