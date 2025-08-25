@@ -5,13 +5,13 @@
 
 ![](https://komarev.com/ghpvc/?username=mb-aarfi&style=flat-square)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-- 🔭 I’m currently working on **GLB.Connect**
+- 🔭 I’m currently working on **AI-Negotiator**
 
-- 🌱 I’m currently learning **DS, DevOops**
+- 🌱 I’m currently learning **ML, DS, DevOops**
 
 - 📝 I will write articles on <a href="https://medium.com/@mohdbaqir110">Medium</a>
 
-- 💬 Ask me about **Full Stack Development, UI/UX Development, Graphic Designing**
+- 💬 Ask me about **Full Stack Development, ML, UI/UX Development, Graphic Designing**
 
 - 📫 How to reach me **mohdbaqir110@gmail.com**
 
