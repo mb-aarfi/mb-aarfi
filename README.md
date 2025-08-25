@@ -30,8 +30,8 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mb-aarfi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </div>
-------------------
 
+------------------
 ## <img src="https://vectorified.com/images/free-education-icon-12.png" width="25">  <b>Education</b>
 <br>
 <table width="100%" align="center" padding="0" margin="0">
