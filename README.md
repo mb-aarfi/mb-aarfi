@@ -56,7 +56,7 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🏥 <a href="https://github.com/mb-aarfi/glbconnect">GLB.CONNECT</a></h3>
+        <h3 align="center"> 🏢 <a href="https://github.com/mb-aarfi/glbconnect">GLB.CONNECT</a></h3>
         <p align="center">
           <a href="https://glb-connect-frontend.onrender.com/">
             <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
@@ -90,7 +90,7 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🔵 <a href="https://github.com/mb-aarfi/MedQ">MEDQ</a></h3>
+        <h3 align="center">🏥 <a href="https://github.com/mb-aarfi/MedQ">MEDQ</a></h3>
         <p align="center">
           <a href="">
             <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
