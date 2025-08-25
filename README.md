@@ -51,6 +51,63 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
 </table>  
 
 -------------------
+## 🚀 Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🏥 <a href="https://github.com/mb-aarfi/glbconnect">GLB.CONNECT</a></h3>
+        <p align="center">
+          <a href="https://glb-connect-frontend.onrender.com/">
+            <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
+          </a>
+        </p>
+        <p>
+          • Comprehensive telemedicine platform connecting patients with doctors<br>
+          • Multi-role system (Admin, Patient, Doctor) with specialized dashboards<br>
+          • Appointment booking system with credit-based transactions<br>
+          • Real-time 1-on-1 video consultations using Vonage API<br>
+          • Doctor payout management and platform fee system<br>
+          • <b>Tech Stack:</b> Next.js, React, Tailwind CSS, shadcn/ui, Clerk.js, PostgreSQL, Prisma, Vonage
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🔴 <a href="https://github.com/mb-aarfi/AI-negotiator">NEGOKART</a></h3>
+        <p align="center">
+          <a href="">
+            <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
+          </a>
+        </p>
+        <p>
+          • AI-Powered Real-Time Collaborative Code Editor with integrated video meetings<br>
+          • Multi-language support with real-time syntax highlighting and code execution<br>
+          • WebRTC implementation for seamless video/audio communication between developers<br>
+          • Advanced AI code suggestions and optimization features<br>
+          • <b>Tech Stack:</b> React.js, WebRTC, Socket.io, Monaco Editor, AI Integration
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🔵 <a href="https://github.com/mb-aarfi/MedQ">MEDQ</a></h3>
+        <p align="center">
+          <a href="">
+            <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
+          </a>
+        </p>
+        <p>
+          • Full-stack educational platform delivering programming resources and career guidance<br>
+          • Attracted 5,000+ users in the first month<br>
+          • Implemented real-time communication with WebSocket and state management with Redux Toolkit<br>
+          • <b>Tech Stack:</b> React.js, Redux Toolkit, MongoDB, Express.js, Node.js, WebSocket
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+-------------------
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Coding Profiles</b>
 <br>
 
