@@ -21,17 +21,16 @@
 -----------------------
 ## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A little bit about Myself :)</b>
 
-```javascript
-const Baqir = {
-  pronouns: "He" | "Him",
-  code: ["Java", "Python", "C++", "Javascript", "HTML", "CSS"],
-  askMeAbout: ["Web Dev", "Full Stack Dev", "Python"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "React.js"],
-      backend: ["Node.js", "Express.js", "Databases"],
-  }
-}
-```
+I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuing B.Tech in Information Technology at GL Bajaj Institute of Technology and Management. Currently leading the Competitive Programming team at Google Developers Students Club, I enjoy solving complex problems and building innovative applications.
+
+<div align="center">
+  <a href="https://github.com/mb-aarfi/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mb-aarfi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/mb-aarfi/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mb-aarfi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
 ------------------
 
 ## <img src="https://vectorified.com/images/free-education-icon-12.png" width="25">  <b>Education</b>
@@ -52,7 +51,7 @@ const Baqir = {
 </table>  
 
 -------------------
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Coding Profiles</b>
 <br>
 
 <p align="left"> 
