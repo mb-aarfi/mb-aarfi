@@ -1,6 +1,6 @@
+<h3 align="center">Hello World👋, I'm Muhammad Baqir</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Muhammad+Baqir;I'm+Software+Developer;I'm+Graphic+Designer"></p>
-<h3 align="center">Hello World, I'm Muhammad Baqir | CSE Undergrad, 3rd Year Student</h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Software+Developer;I'm+Graphic+Designer"></p>
 
 
 ![](https://komarev.com/ghpvc/?username=mb-aarfi&style=flat-square)
@@ -63,11 +63,11 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
           </a>
         </p>
         <p>
-          • Comprehensive telemedicine platform connecting patients with doctors<br>
-          • Multi-role system (Admin, Patient, Doctor) with specialized dashboards<br>
-          • Appointment booking system with credit-based transactions<br>
-          • Real-time 1-on-1 video consultations using Vonage API<br>
-          • Doctor payout management and platform fee system<br>
+          • A real-time platform for students and alumni to interact, seek guidance, and share resources<br>
+          • Features Q&A threads, anonymous chatting, and alumni connect for mentorship<br>
+          • Includes sections for job referrals, internships, and centralized event management<br>
+          • Encourages collaborative learning through resource sharing (notes, question papers, etc.)<br>
+          • Aims to overcome hesitation among juniors by providing a supportive and dynamic environment<br>
           • <b>Tech Stack:</b> Next.js, React, Tailwind CSS, shadcn/ui, Clerk.js, PostgreSQL, Prisma, Vonage
         </p>
       </td>
@@ -75,14 +75,15 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
         <h3 align="center">🔴 <a href="https://github.com/mb-aarfi/AI-negotiator">NEGOKART</a></h3>
         <p align="center">
           <a href="">
-            <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
+            <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status" />
           </a>
         </p>
         <p>
-          • AI-Powered Real-Time Collaborative Code Editor with integrated video meetings<br>
-          • Multi-language support with real-time syntax highlighting and code execution<br>
-          • WebRTC implementation for seamless video/audio communication between developers<br>
-          • Advanced AI code suggestions and optimization features<br>
+          • AI-powered platform that automates negotiation between buyers and sellers<br>
+          • Uses ML/LLMs to analyze pricing patterns and suggest optimized deals<br>
+          • Helps users save money while ensuring fair outcomes for both parties<br>
+          • Can be applied in e-commerce, retail, and B2B marketplaces<br>
+          • Focused on creating a smart, unbiased, and efficient negotiation system<br>
           • <b>Tech Stack:</b> React.js, WebRTC, Socket.io, Monaco Editor, AI Integration
         </p>
       </td>
@@ -96,9 +97,11 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
           </a>
         </p>
         <p>
-          • Full-stack educational platform delivering programming resources and career guidance<br>
-          • Attracted 5,000+ users in the first month<br>
-          • Implemented real-time communication with WebSocket and state management with Redux Toolkit<br>
+          • Healthcare solution designed to streamline OPD registration and hospital bed availability<br>
+          • Helps patients find the nearest hospital with available facilities in real-time<br>
+          • Includes inventory management for efficient hospital resource handling<br>
+          • Built to enhance patient experience with reduced waiting time and improved transparency<br>
+          • Pre-finalist project in SIH Hackathon 2024, showcasing its innovation and impact<br>
           • <b>Tech Stack:</b> React.js, Redux Toolkit, MongoDB, Express.js, Node.js, WebSocket
         </p>
       </td>
@@ -156,7 +159,6 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
 
 ## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Connect With Me</b>
 
-<p><a href="https://studio.buymeacoffee.com/dashboard"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="mb-aarfi" /></a></p><br><br>
 <div align="center">
   <a href="mailto:mohdbaqir110@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
